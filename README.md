@@ -1,2 +1,2 @@
 # Websites-projects
-Websites I built for clients using notepad++
+Websites built for clients using notepad++
